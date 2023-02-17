@@ -179,7 +179,7 @@ export default function Home() {
                 <VStack spacing={"8"} pt={"4"}>
                   <TechCard
                     name="unnamed reddit desktop client"
-                    stack="electron"
+                    stack="electron react.js"
                   >
                     <Text>
                       this should be self explanatory. if you use reddit you
